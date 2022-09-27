@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-This organization is meant as a conglomerate for open-source software.
+Want to help? You're more than welcome :)
 
 ## Current projects
 - GameCodin frontend
