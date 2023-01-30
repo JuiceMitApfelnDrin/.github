@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-We're creating the next evolution of [CodinGame](https://www.codingame.com/) named [CodingCod](https://github.com/JuiceMitApfelnDrin/KnowledgeBase), check it out!
+We're creating the next evolution of [CodinGame](https://www.codingame.com/) named [CodinCod](https://github.com/JuiceMitApfelnDrin/KnowledgeBase), check it out!
 
 ## Contributing
 
